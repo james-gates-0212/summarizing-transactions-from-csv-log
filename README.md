@@ -1,6 +1,7 @@
 # Summarizing transactions from CSV log
 
 [Original Question](https://gist.github.com/liangzan/4436cb8b083c66b3517e7f4d80939f06)
+[transactions.csv.zip](https://drive.google.com/file/d/1of4IuuAUGQIKoZdkLr2yr5MKQuuabpJs/view?usp=share_link)
 
 This is a [Node.js](https://nodejs.org/) command line program for parsing csv file and getting portfolio value from crypto investment log file.
 
